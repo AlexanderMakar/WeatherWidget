@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "8K047zdxJERB+BZpXtFiUhMW+q+PQKP8PZDoVMtRNSg=",
+  "Source": "WeatherWidget",
+  "BasePath": "_content/WeatherWidget",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherWidget\\wwwroot",
+      "Source": "WeatherWidget",
+      "ContentRoot": "D:\\Projects\\WeatherWidget\\WeatherWidget\\wwwroot\\",
+      "BasePath": "_content/WeatherWidget",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\WeatherWidget\\WeatherWidget\\wwwroot\\index.html",
+      "SourceId": "WeatherWidget",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\WeatherWidget\\WeatherWidget\\wwwroot\\",
+      "BasePath": "_content/WeatherWidget",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

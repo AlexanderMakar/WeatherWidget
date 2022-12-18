@@ -1,0 +1,12 @@
+D:\Projects\WeatherWidget\WeatherWidget.Services\bin\Debug\net7.0\WeatherWidget.Services.deps.json
+D:\Projects\WeatherWidget\WeatherWidget.Services\bin\Debug\net7.0\WeatherWidget.Services.dll
+D:\Projects\WeatherWidget\WeatherWidget.Services\bin\Debug\net7.0\WeatherWidget.Services.pdb
+D:\Projects\WeatherWidget\WeatherWidget.Services\obj\Debug\net7.0\WeatherWidget.Services.csproj.AssemblyReference.cache
+D:\Projects\WeatherWidget\WeatherWidget.Services\obj\Debug\net7.0\WeatherWidget.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WeatherWidget\WeatherWidget.Services\obj\Debug\net7.0\WeatherWidget.Services.AssemblyInfoInputs.cache
+D:\Projects\WeatherWidget\WeatherWidget.Services\obj\Debug\net7.0\WeatherWidget.Services.AssemblyInfo.cs
+D:\Projects\WeatherWidget\WeatherWidget.Services\obj\Debug\net7.0\WeatherWidget.Services.csproj.CoreCompileInputs.cache
+D:\Projects\WeatherWidget\WeatherWidget.Services\obj\Debug\net7.0\WeatherWidget.Services.dll
+D:\Projects\WeatherWidget\WeatherWidget.Services\obj\Debug\net7.0\refint\WeatherWidget.Services.dll
+D:\Projects\WeatherWidget\WeatherWidget.Services\obj\Debug\net7.0\WeatherWidget.Services.pdb
+D:\Projects\WeatherWidget\WeatherWidget.Services\obj\Debug\net7.0\ref\WeatherWidget.Services.dll
