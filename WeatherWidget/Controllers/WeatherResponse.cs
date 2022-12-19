@@ -1,6 +1,6 @@
 namespace WeatherWidget.Controllers;
 
-public class WeatherResponse
+public record WeatherResponse
 {
     public string Country { get; set; }
     

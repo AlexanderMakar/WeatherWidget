@@ -7,7 +7,6 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -17,7 +16,6 @@ builder.Services.AddHttpClient("WeatherApi", config =>
 });
 
 builder.Services.AddScoped<IWeatherService, WeatherService>();
-builder.Services.AddTransient<ExceptionMiddleware>();
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
 
@@ -34,7 +32,6 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseAuthorization();
-
 app.UseMiddleware<ExceptionMiddleware>();
 app.MapControllers();
 

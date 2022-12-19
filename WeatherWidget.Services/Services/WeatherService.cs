@@ -24,6 +24,11 @@ public class WeatherService : IWeatherService
 
         var key = Environment.GetEnvironmentVariable("WeatherApiKey");
 
+        if (string.IsNullOrEmpty(key))
+        {
+            throw new EnvironmentVariableNotFoundException("Api key not found");
+        }
+
         var weather = new Weather
         {
             WeatherInfoResponse = await FetchWeatherInfoAsync(latitude, longitude, key),
